@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Hadia Fatima 👋
 
-<!--
-**hadiafatima29/hadiafatima29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## BS Computer Science Student | Python & Backend Development
 
-Here are some ideas to get you started:
+I'm a BS Computer Science student building practical projects in Python,
+backend development, REST APIs, SQL, and data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- Python
+- SQL
+- Flask
+- REST APIs
+- SQLite
+- Pandas
+- NumPy
+- Matplotlib
+- Git
+- GitHub
+- Requests
+
+### 🚀 Projects
+
+- **Students CRUD REST API** — Python, Flask, SQLite
+- **Sales Data Analysis** — Python, Pandas, NumPy, Matplotlib
+- **Expense Tracker** — Python, Functions, File Handling
+- **Student Management System** — Python, Lists, Dictionaries, Functions
+
+### 📚 Currently Learning
+
+Backend Development and Software Engineering
+
+### 🎓 Education
+
+BS Computer Science  
+Superior College of Science and Commerce, Faisalabad  
+2023 – 2027
+
+### 📫 Contact
+
+GitHub: [hadiafatima29](https://github.com/hadiafatima29)
