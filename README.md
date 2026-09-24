@@ -39,3 +39,5 @@ Superior College of Science and Commerce, Faisalabad
 ### 📫 Contact
 
 GitHub: [hadiafatima29](https://github.com/hadiafatima29)
+LinkedIn:
+[Hadia Fatima] (https://www.linkedin.com/in/hadia-fatima-a06414431)
